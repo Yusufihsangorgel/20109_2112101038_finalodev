@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{48118FC3-C003-4802-922D-17BA52F941EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="YazilimciClubTest.cs">
+    <Files>
+      <File FileName="YazilimciClubTest.cs" Line="17" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Yazilimci.club" expanded="True">
+            <Node name="Yazilimci.club" expanded="True">
+              <Node name="YazilimciClubTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Yazilimci.club" expanded="True">
+            <Node name="Yazilimci.club" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Yazilimci.club PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
